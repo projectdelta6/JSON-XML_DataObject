@@ -3,6 +3,8 @@ plugins {
     id 'org.jetbrains.kotlin.android'
 }
 
+group = 'com.github.projectdelta6'
+
 android {
     namespace 'com.duck.dataobject'
     compileSdk 33
